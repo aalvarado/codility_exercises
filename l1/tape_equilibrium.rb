@@ -1,3 +1,5 @@
+# https://codility.com/demo/results/demoYNVG3H-DKP/
+
 def solution(a)
   head = a.first
   tail = a[1..-1].reduce(0, :+)
