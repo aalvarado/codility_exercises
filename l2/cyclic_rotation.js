@@ -1,3 +1,5 @@
+// 100% Test Score
+// https://app.codility.com/demo/results/trainingCDEYHT-QCH/
 function solution(A, K) {
   var newList = [];
 
