@@ -1,3 +1,3 @@
 function solution(X, Y, D) {
-  return Math.ceil((Y - X) / D)
+  return ((Y - X) / D) << 1
 }
